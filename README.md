@@ -5,7 +5,7 @@ Meu nome é Gustavo (também conhecido(a) como @gustavosantossh no GitHub. </br>
 
 📝 Informações Detalhadas </br>
 👤 Nome: Gustavo Henrique </br>
-🎂 Idade: 19 </br>
+🎂 Idade: 20 </br>
 💻 Stack: PHP | LARAVEL </br>
 📚 Aprendizado Atual: JAVA | PYTHON | VUE.JS </br>
 🎓 Formação: Técnico em Informática </br>
